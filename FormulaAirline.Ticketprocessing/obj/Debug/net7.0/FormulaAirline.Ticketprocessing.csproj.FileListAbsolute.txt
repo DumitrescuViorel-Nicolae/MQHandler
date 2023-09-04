@@ -1,0 +1,17 @@
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\bin\Debug\net7.0\FormulaAirline.Ticketprocessing.exe
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\bin\Debug\net7.0\FormulaAirline.Ticketprocessing.deps.json
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\bin\Debug\net7.0\FormulaAirline.Ticketprocessing.runtimeconfig.json
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\bin\Debug\net7.0\FormulaAirline.Ticketprocessing.dll
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\bin\Debug\net7.0\FormulaAirline.Ticketprocessing.pdb
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\obj\Debug\net7.0\FormulaAirline.Ticketprocessing.csproj.AssemblyReference.cache
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\obj\Debug\net7.0\FormulaAirline.Ticketprocessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\obj\Debug\net7.0\FormulaAirline.Ticketprocessing.AssemblyInfoInputs.cache
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\obj\Debug\net7.0\FormulaAirline.Ticketprocessing.AssemblyInfo.cs
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\obj\Debug\net7.0\FormulaAirline.Ticketprocessing.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\obj\Debug\net7.0\FormulaAirline.Ticketprocessing.dll
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\obj\Debug\net7.0\refint\FormulaAirline.Ticketprocessing.dll
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\obj\Debug\net7.0\FormulaAirline.Ticketprocessing.pdb
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\obj\Debug\net7.0\FormulaAirline.Ticketprocessing.genruntimeconfig.cache
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\obj\Debug\net7.0\ref\FormulaAirline.Ticketprocessing.dll
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\Nick\Desktop\MQHandler\FormulaAirline.Ticketprocessing\obj\Debug\net7.0\FormulaAirline.Ticketprocessing.csproj.CopyComplete
